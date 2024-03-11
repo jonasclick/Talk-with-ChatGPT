@@ -9,13 +9,12 @@ Yep, me too!
 Introducing: Talk with ChatGPT. 
 Now you can just speak to ChatGPT and listen to the answer. Like real humans do when they communicate.
 
-What this Python Code does:
-/n
-– Listens to your prompt (audio recording)
-– Converts your voice-prompt into text (using OpenAI's Speech-To-Text)
-– Sends your (now written) prompt to ChatGPT (using OpenAI's API)
-– Gets an answer from ChatGPT (using OpenAI's API)
-– Turns the (written) answer into speech (using OpenAI's Text-To-Speech)
+What this Python Code does:  
+– Listens to your prompt (audio recording)  
+– Converts your voice-prompt into text (using OpenAI's Speech-To-Text)  
+– Sends your (now written) prompt to ChatGPT (using OpenAI's API)  
+– Gets an answer from ChatGPT (using OpenAI's API)  
+– Turns the (written) answer into speech (using OpenAI's Text-To-Speech)  
 – Plays the audio file
 
 
