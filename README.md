@@ -1,12 +1,12 @@
 # Talk with ChatGPT (Voice-Interactive)
 This python code let's you actually talk with ChatGPT instead of typing.
 
-It's amazing how ChatGPT responds almost like a real human, right?
+It's amazing how ChatGPT responds almost like a real human, right?  
 But don't you feel like typing your question and then reading it's answer greatly worsens this feeling of having a real human assistant?
 
 Yep, me too!
 
-Introducing: Talk with ChatGPT. 
+Introducing: Talk with ChatGPT.  
 Now you can just speak to ChatGPT and listen to the answer. Like real humans do when they communicate.
 
 What this Python Code does:  
@@ -23,5 +23,5 @@ Using this, you can talk to ChatGPT in many languages. I personally tested Engli
 I find it tons of fun to use!
 
 
-Disclaimer: The voice you hear is AI generated. ChatGPT is not a real human. Consider double checking important information and don't base your decisions on answers you get from ChatGPT.
-Disclaimer: I'm a beginner programmer. I did this project because I wanted to learn how to work with an API in Python. This code was made for my own learning purposes and might be buggy. Use it at your own risk.
+⚠️ Disclaimer: The voice you hear is AI generated. ChatGPT is not a real human. Consider double checking important information and don't base your decisions on answers you get from ChatGPT.  
+⚠️ Disclaimer: I'm a beginner programmer. I did this project because I wanted to learn how to work with an API in Python. This code was made for my own learning purposes and might be buggy. Use it at your own risk.
