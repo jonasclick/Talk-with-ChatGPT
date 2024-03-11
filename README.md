@@ -1,4 +1,4 @@
-# Talk with ChatGPT
+# Talk with ChatGPT (Voice-Interactive)
 This Python code let's you actually talk with ChatGPT instead of typing.
 
 It's amazing how ChatGPT responds almost like a real human, right?
