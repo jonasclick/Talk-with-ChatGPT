@@ -31,5 +31,5 @@ I find it tons of fun to use!
 
 v0 are learning files. There I try new concepts before adding them into the main code.  
 v1 is me trying to understsand the OpenAI API.  
-v2 lets you type a prompt and get back a spoken answer.
+v2 lets you type a prompt and get back a spoken answer.  
 v3 is the finished project.
