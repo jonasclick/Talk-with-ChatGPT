@@ -1,5 +1,5 @@
 # Talk with ChatGPT (Voice-Interactive)
-This Python code let's you actually talk with ChatGPT instead of typing.
+This python code let's you actually talk with ChatGPT instead of typing.
 
 It's amazing how ChatGPT responds almost like a real human, right?
 But don't you feel like typing your question and then reading it's answer greatly worsens this feeling of having a real human assistant?
